@@ -1,0 +1,13 @@
+/* Meu header */
+header {
+  display: flex;
+  position: fixed;
+  padding: 10rem;
+  margin-top: 5rem;
+}
+
+.topo {
+  display: flex;
+  width: 100%;
+  padding: 4rem 0rem;
+}
